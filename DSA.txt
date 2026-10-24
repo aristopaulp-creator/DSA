@@ -1,0 +1,23 @@
+Binary search:
+-used only in sorted data 
+-set both end as var.
+-find mid. element
+-check mid element with target
+-then update the end
+-find new mid.
+-check mid element with target
+-then update the end
+-*order agnostic 
+
+
+Sorting:
+	*Bubble sort
+	*Selection sort
+	*Insertion sort
+
+Bubble sort:
+-compare adjacent element
+-then swap if required
+-in 1st pass largest element at last //ascending
+-array size=n, pass=n-1 
+
